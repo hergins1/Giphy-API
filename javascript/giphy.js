@@ -64,7 +64,4 @@ $("#new-team").on("click", function (event) {
 
 });
 
-
-})
-
 renderButtons();
